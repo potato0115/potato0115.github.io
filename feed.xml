@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Potato_blog</title>
+    <link href="https://potato0115.github.io/feed.xml" rel="self" />
+    <link href="https://potato0115.github.io" />
+    <updated>2024-10-20T11:05:32+08:00</updated>
+    <author>
+        <name>Potato</name>
+    </author>
+    <id>https://potato0115.github.io</id>
+
+    <entry>
+        <title>My self</title>
+        <author>
+            <name>Potato</name>
+        </author>
+        <link href="https://potato0115.github.io/my-self.html"/>
+        <id>https://potato0115.github.io/my-self.html</id>
+
+        <updated>2024-10-18T21:08:55+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Age 12 Grade 7 JinanYuYing Middle School 济南育英中学 #include&lt;iostream&gt; using namespace std; int main(){ cout&lt;&lt;"hello"; return 0; }
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Age 12 </p>
+<p>Grade 7 </p>
+<p>JinanYuYing Middle School 济南育英中学</p>
+<pre class="language-cpp"><code>#include&lt;iostream&gt;
+using namespace std;
+int main(){
+    cout&lt;&lt;"hello";
+    return 0;
+}</code></pre>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hello</title>
+        <author>
+            <name>Potato</name>
+        </author>
+        <link href="https://potato0115.github.io/hello.html"/>
+        <id>https://potato0115.github.io/hello.html</id>
+
+        <updated>2024-10-07T21:46:47+08:00</updated>
+            <summary>
+                <![CDATA[
+                    hello world!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    hello world!
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Potato_blog",
+    "description": "",
+    "home_page_url": "https://potato0115.github.io",
+    "feed_url": "https://potato0115.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Potato"
+    },
+    "items": [
+        {
+            "id": "https://potato0115.github.io/my-self.html",
+            "url": "https://potato0115.github.io/my-self.html",
+            "title": "My self",
+            "summary": "Age 12 Grade 7 JinanYuYing Middle School 济南育英中学 #include&lt;iostream&gt; using namespace std; int main(){ cout&lt;&lt;\"hello\"; return 0; }",
+            "content_html": "<p>Age 12 </p>\n<p>Grade 7 </p>\n<p>JinanYuYing Middle School 济南育英中学</p>\n<pre class=\"language-cpp\"><code>#include&lt;iostream&gt;\nusing namespace std;\nint main(){\n    cout&lt;&lt;\"hello\";\n    return 0;\n}</code></pre>",
+            "author": {
+                "name": "Potato"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-18T21:08:55+08:00",
+            "date_modified": "2024-10-20T11:05:32+08:00"
+        },
+        {
+            "id": "https://potato0115.github.io/hello.html",
+            "url": "https://potato0115.github.io/hello.html",
+            "title": "Hello",
+            "summary": "hello world!",
+            "content_html": "\n  <p>\n    hello world!\n  </p>",
+            "author": {
+                "name": "Potato"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-07T21:46:47+08:00",
+            "date_modified": "2024-10-07T21:46:47+08:00"
+        }
+    ]
+}
