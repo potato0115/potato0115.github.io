@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Potato_blog",
+    "description": "",
+    "home_page_url": "file:///C:\Users\SweetPotato\Documents\Publii\sites\potato_blog\preview",
+    "feed_url": "file:///C:\Users\SweetPotato\Documents\Publii\sites\potato_blog\preview/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Potato"
+    },
+    "items": [
+        {
+            "id": "file:///C:\Users\SweetPotato\Documents\Publii\sites\potato_blog\preview/my-self.html",
+            "url": "file:///C:\Users\SweetPotato\Documents\Publii\sites\potato_blog\preview/my-self.html",
+            "title": "My self",
+            "summary": "<p>About me/关于我</p>\n",
+            "content_html": "<p>About me/关于我</p>\n\n<p style=\"margin-top: 0px;\">Age 12 </p>\n<p>Grade 7 </p>\n<p>JinanYuYing Middle School 济南育英中学</p>\n<pre class=\"language-cpp\"><code>#include&lt;iostream&gt;\nusing namespace std;\nint main(){\n    cout&lt;&lt;\"hello\";\n    return 0;\n}</code></pre>",
+            "author": {
+                "name": "Potato"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-18T21:08:55+08:00",
+            "date_modified": "2024-10-20T14:04:38+08:00"
+        },
+        {
+            "id": "file:///C:\Users\SweetPotato\Documents\Publii\sites\potato_blog\preview/hello.html",
+            "url": "file:///C:\Users\SweetPotato\Documents\Publii\sites\potato_blog\preview/hello.html",
+            "title": "Hello",
+            "summary": "hello world!",
+            "content_html": "\n  <p>\n    hello world!\n  </p>",
+            "author": {
+                "name": "Potato"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-07T21:46:47+08:00",
+            "date_modified": "2024-10-07T21:46:47+08:00"
+        }
+    ]
+}
